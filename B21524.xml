@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the speedy procuring a sufficient quantity of plate, to make 950000 l. of new money, humbly offer'd to the consideration of the Lords and Commons now assembled in Parliament.</title>
+            <author>T. E.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21524</idno><idno type="EEBO-CITATION">99885576</idno>
+  <idno type="VID">185346</idno>
+  <idno type="EEBO-PROQUEST">2240899982</idno>
+  
+            <idno type="STC">Wing E41B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[23]</idno>
+            <idno type="STC">ESTC R224665</idno>
+            <idno type="PROQUEST">ocm99885576</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885576e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185346)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the speedy procuring a sufficient quantity of plate, to make 950000 l. of new money, humbly offer'd to the consideration of the Lords and Commons now assembled in Parliament.</title>
+                  <author>T. E.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author's initials from Wing.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Early works to 1800.</term>
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+               <term type="topical_term">Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:185346:1"/>
+            <head>
+               <hi>A PROPOSAL</hi> for the Speedy Procuring a sufficient Quantity of <hi>PLATE,</hi> to make 950000 l. of <hi>NEW MONEY,</hi> humbly Offer'd to the Considera<g ref="char:EOLhyphen"/>tion of the <hi>Lords</hi> and <hi>Commons</hi> now Assembled in <hi>Parliament.</hi>
+            </head>
+            <p>ALthough the several <hi>Proposals</hi> which have been made for <hi>Regulating the Coin,</hi> differ in some <hi>other</hi> points, they seem all to agree in <hi>this,</hi> viz. That <hi>Three Fifths</hi> of Coin in the whole Kingdom is (more or less) Clipp'd, and that this Clipp'd Money, taken together doth want <hi>Two Fifths</hi> of what it ought to weigh, so that if this Clipp'd Money were all <hi>Sterling</hi> Silver, (which yet it is not) it will make but <hi>Three Fifths</hi> of New Money according to the present Standard.</p>
+            <p>I take it for granted, that the Fund to be settled for the supplying the <hi>Deficiency</hi> of the Clipp'd Money, will answer the <hi>End</hi> for which it is design'd. But 'tis plain 100 <hi>l.</hi> of Clipp'd Money which wants <hi>Two Fifths</hi> of its Weight, cannot be made good, but by the Addition of so much Silver, as will make <hi>Two Fifths</hi> of 100 <hi>l.</hi> And there<g ref="char:EOLhyphen"/>fore if it be necessary to the carrying on the present War, and the Trade of the Nati<g ref="char:EOLhyphen"/>on, that there should be as much <hi>New Money</hi> of <hi>full Weight,</hi> as there is now of the <hi>Old</hi> by <hi>Tale,</hi> there will want a great Quantity of Plate or <hi>Bullion</hi> to supply this Defect. To <hi>buy</hi> Bullion with Money will not <hi>increase</hi> the Coin, and if we <hi>stay</hi> till it comes in return for our Commodities, it may come <hi>too late.</hi>
+            </p>
+            <p>It is therefore humbly proposed, that such <hi>Encouragement</hi> be given, as may induce the People <hi>Voluntarily</hi> to bring in their Plate to be Coin'd into New Money; which I presume they will do upon the <hi>advantageous Terms</hi> following.</p>
+            <list>
+               <item>1. Let there be given out 100000 <hi>number'd Tickets,</hi> to such Persons as shall bring in their Plate to be Coin'd; that is, <hi>One</hi> Ticket for every 38 Ounces of Sterling Plate, these 100000 Tickets will answer to 3800000 Ounces of Plate. Every such Ticket shall secure to the Owner 10 <hi>l.</hi> of New Money to be paid at a certain Day after Drawing; by this means every Person will receive 5 <hi>s.</hi> 3 <hi>d.</hi> an Ounce for his Plate, besides the Advantage that may accrue by a Benefited Ticket.</item>
+               <item>2. Let 100000 <hi>l.</hi> be divided amongst 10000 Benefited Tickets, as in the following Table, and let these 10000 Benefited Tickets be mix'd with 90000 blank Tickets, and drawn with the 100000 number'd Tickets above-mention'd, as in the Million Lottery.</item>
+            </list>
+            <p>The <hi>Advantages</hi> of this <hi>Proposal</hi> are obvious: Here is but <hi>Nine</hi> Blanks to <hi>One</hi> Prize, whereas in the Million Lottery there was <hi>Thirty Nine</hi> to <hi>One,</hi> and in most <hi>other Lotteries</hi> the Odds hath been <hi>double</hi> or <hi>treble</hi> to what is here proposed. Besides, in those Lotteries there hath been 10 <hi>per Cent.</hi> deducted for the <hi>Charges</hi> of Ma<g ref="char:EOLhyphen"/>nagement; whereas in <hi>this</hi> every Adventurer will be sure to receive 5 <hi>s.</hi> 3 <hi>d.</hi> an Ounce for his Plate, and therefore runs no Risque, tho' none of the Benefited Tickets should fall, to his share; but if he should have a Benefited Ticket (and 'tis but <hi>Nine</hi> to <hi>One</hi> that he hath not) that will be clear <hi>Gain</hi> over and above the 5 <hi>s.</hi> 3 <hi>d.</hi> an Ounce for his Plate.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>Benefited Tickets.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Value of each Be<g ref="char:EOLhyphen"/>nefited Ticket.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Total of all the Benefited Tickets.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>of</cell>
+                     <cell>1000</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>500</cell>
+                     <cell> </cell>
+                     <cell>5000</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell> </cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                     <cell>1960</cell>
+                  </row>
+                  <row>
+                     <cell>120</cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell>3600</cell>
+                  </row>
+                  <row>
+                     <cell>360</cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                     <cell>8640</cell>
+                  </row>
+                  <row>
+                     <cell>760</cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell>15200</cell>
+                  </row>
+                  <row>
+                     <cell>1700</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell>20400</cell>
+                  </row>
+                  <row>
+                     <cell>3000</cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>24000</cell>
+                  </row>
+                  <row>
+                     <cell>4000</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>20000</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">First and last Drawn 100 <hi>l.</hi> each,</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell role="total">10000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">100000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Considering how many Lot<g ref="char:EOLhyphen"/>teries have been Drawn <hi>Full,</hi> in which the Security was not so <hi>good,</hi> nor the Advantage near so <hi>great</hi> as here proposed, it is highly probable that this will be <hi>full</hi> in a short time, (and to make this the more certain, 'tis but prohibiting the use of Sil<g ref="char:EOLhyphen"/>ver Tankards <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd other Plate in Publick Houses.) However, if it should not be <hi>full</hi> by the time set, it may be Drawn in <hi>Proportion</hi> to the Quantity of Plate that shall be then brought in, and the <hi>Advantages</hi> remain the <hi>same</hi> to each Adventurer.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>By this Proposal the Government will pay (in New Mony) for these 3800000 Ounces of Plate,</cell>
+                     <cell> </cell>
+                     <cell>1000000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Besides the Benefited Tickets, which comes to</cell>
+                     <cell> </cell>
+                     <cell>100000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Sum</cell>
+                     <cell>1100000</cell>
+                  </row>
+                  <row>
+                     <cell>The 3800000 Ounces of Plate, will make</cell>
+                     <cell> </cell>
+                     <cell>950000</cell>
+                  </row>
+                  <row>
+                     <cell>So the Charge to the Government will be</cell>
+                     <cell> </cell>
+                     <cell>150000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>To be made good by such ways as the Parliament shall think fit. This Plate will not cost full 9 <hi>d. ob.</hi> above 5 <hi>s.</hi> an Ounce which is here supposed to be the <hi>Common Price</hi>
+            </p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:185346:2"/>
+            <p>A PROPOSAL for Supplying the Want of Silver, <hi>&amp;c</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
